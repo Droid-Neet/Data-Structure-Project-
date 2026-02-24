@@ -1,3 +1,16 @@
+Group Members
+1. Malou Agok Malou BSCCS/2025/61668
+2. Nyok Koch Garang BSCCS/2025/53155
+3. ISSA BISHAR HUSSEIN BSCCS/2025/50654
+4. Viviane Binon BSCCS/2025/54251
+5. Brian Muiriru BSCCS/2024/55533
+6. Emmanuel Mwabili BSCCS/2024/54763
+7. Frakline Kipchirchir Bsccs/2025/48032
+8. Morgan Bsccs/2025/55394
+9. Evans Mwenda Bsccs/2025/52781 
+10. Joshua otieno Bsccs/2025/52511
+
+
 Group Project: Data Structures & Algorithms using python
 
 Title
